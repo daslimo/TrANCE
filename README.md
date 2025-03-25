@@ -1,6 +1,6 @@
 # TrANCE
 This repository contains the code and resources for the paper "TraNCE: Transformative Non-linear Concept Explainer for CNNs".
 
-<br/><img src='/TrANCE/System_model.pdf.pdf'>
+![alt text](https://github.com/daslimo/TrANCE/blob/System_model.pdf.pdf?raw=true)
 
 Please be patient as we clean up :)
